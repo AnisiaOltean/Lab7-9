@@ -1,0 +1,7 @@
+1;Amalia Popescu;Bucium, nr.45
+3;Amelie Buta;Transia, nr.45
+2;Grigore Patachi;Unirii, nr.16
+5;Gigel Frone;Sirineasa, nr.25Z
+6;Horica Popescu;Mimil, nr.34
+4;Amalia Geo;Nini, nr.65B
+14;Grinch Whoo;Whoville, nr.18C

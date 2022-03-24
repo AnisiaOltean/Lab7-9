@@ -1,0 +1,4 @@
+4;Amalia Dinescu;Transilvaniei, nr.6C
+2;Amalia Popescu;Transilvaniei, nr.6C
+1;Ion Gheorghe;Transilvaniei, nr.6C
+3;Ghita Ene;Transilvaniei, nr.6C
